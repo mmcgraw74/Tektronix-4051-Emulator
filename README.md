@@ -10,6 +10,15 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 ---
 
+# Features
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Game board](#game-board)
+- [Features Not Supported](#features-not-supported)
+- [History](#history)
+
+
 I renamed this project Tektronix 4051 Emulator, since it is limited to emulating the Tektronix 4051 hardware:
 - Motorola 6800 CPU with 800KHz clock
 - 32KB of RAM
@@ -55,14 +64,6 @@ This is a full emulation of the Tektronix 4051 computer.
 The emulation consists of a 6800 CPU complete with the 'hardware', 32KB BASIC 
 ROM and eight option ROM images. The Flash Drive provides tape file support -
 limited to a single directory from the FlashDrive.zip. 
-
-----------------------------------
-
-- [Topics](#topics)
-- [Requirements](#requirements)
-- [Game board](#game-board)
-- [Features Not Supported](#features-not-supported)
-- [History](#history)
 
 ----------------------------------
 
