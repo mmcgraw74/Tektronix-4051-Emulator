@@ -1,6 +1,6 @@
 # Tektronix-4051-Emulator
 
-![MONOPOLY](./MONOPOLY.png))
+![MONOPOLY](./MONOPOLY.png)
 
 Based on the original ***Tektronix 405x Javascript Emulator*** by Dave Roberts and enhanced by Jon Stanley found here:
 https://github.com/jonbstanley/Tek405xEmulator
