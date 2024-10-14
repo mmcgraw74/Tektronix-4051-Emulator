@@ -10,12 +10,16 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 ---
 
-# Running the 4051 Emulator
+# Table of Contents
 
+- [Table of Contents](#table-of-contents)
+- [Installation and Running the 4051 Emulator](#installation-and-running-the-4051-emulator)
 - [Features](#features)
 - [Game board](#game-board)
 - [Features Not Supported](#features-not-supported)
 - [History](#history)
+
+# Installation and Running the 4051 Emulator
 
 - **Tektronix-4051-Emulator** requires a computer with at least 1024x800 graphics monitor and Chrome or other HTML5 web browser
 
