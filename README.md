@@ -12,7 +12,6 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 # Running the 4051 Emulator
 
-- [Running the 4051 Emulator](#running the 4051 Emulator)
 - [Features](#features)
 - [Game board](#game-board)
 - [Features Not Supported](#features-not-supported)
