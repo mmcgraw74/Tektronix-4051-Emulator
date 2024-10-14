@@ -10,14 +10,32 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 ---
 
-# Features
+# Running the 4051 Emulator
 
+- [Running the 4051 Emulator](#running the 4051 Emulator)
 - [Features](#features)
-- [Requirements](#requirements)
 - [Game board](#game-board)
 - [Features Not Supported](#features-not-supported)
 - [History](#history)
 
+- **Tektronix-4051-Emulator** requires a computer with at least 1024x800 graphics monitor and Chrome or other HTML5 web browser
+
+- Download and unzip the 4051-Emulator zip file in this directory
+- Download and unzip the FlashDrive zip file in this directory
+- Run the 4051 Emulator by selecting the jsTEKTRONIX4051_universal.html file in the unzipped 4051 Emulator folder
+- Your computer web browser will launch the 4051 Emulator in a new tab
+- Click the "!!mute button", then Click the "start" button at the bottom of the screen to start the 4051 emulator
+- Click the storage button at the bottom of the emulator screen
+  - select "4050 Flash Drive files" in the pulldown next to the Import button
+- Click the Import button and click OK on the warning popup
+  - use the file explorer pop-up window to navigate to the desired unzipped Flash Drive directory (ex: Games)
+  - Click on the first file and press Shift and End keyboard keys to select all files in the directory and press Enter
+  - Click Close on the Done popup window
+  - Click Cancel on the storage window
+- Click the Auto Load button on the 4051 Emulator
+- This will load the file 1 in this directory which is typically a menu program
+
+# Features
 
 I renamed this project Tektronix 4051 Emulator, since it is limited to emulating the Tektronix 4051 hardware:
 - Motorola 6800 CPU with 800KHz clock
@@ -56,19 +74,8 @@ Twilight-Logic added several features to the original 405x Emulator including:
 
 ---
 
-Tektronix 4051 Javascript emulator
-==================================
 
-This is a full emulation of the Tektronix 4051 computer.
 
-The emulation consists of a 6800 CPU complete with the 'hardware', 32KB BASIC 
-ROM and eight option ROM images. The Flash Drive provides tape file support -
-limited to a single directory from the FlashDrive.zip. 
-
-----------------------------------
-
-# Requirements
-- **Monopoly** requires a **Tektronix 4051 with 32KB of RAM**, or **any 4052/4052A** or **4054/4054A** computer **with R12 or Fast Graphics ROM Pack** and my **GPIB Flash Drive.**
   - If you don't have a Tektronix 4050 computer - you may enjoy playing my Monopoly game on the **latest Tektronix 405x Emulator** [Latest 405x experimental web-browser based emulator](https://github.com/Twilight-Logic/Tek405xEmulator/blob/master/experimental/JonStanley-Mod-Storage-Pix-20240427.zip).  Supported web browsers include Chrome, Firefox and Edge.  Follow my instructions in this post https://forum.vcfed.org/index.php?threads/tek-405x-web-browser-emulator.62548/post-1357155 - be sure to **Click to Expand** the instructions in my previous post but use my link above to download the latest version of the 405x emulator.  The 405X Emulator includes 32KB of RAM, 32KB Tek 4050 BASIC ROM, the R12 option ROM Pack, and GPIB Flash Drive but only supports importing a single directory of 4050 Flash Drive files.  I used this specific emulator to develop my Monopoly game.  To speed up development, I typically increase the emulator speed from the default 1x 4051 to at least 10x which is close to the performance running Monopoly on my 4054A computer.  Use the PC or MAC function keys 1-4 and 8 to operate the game running on the emulator.
 
 - My Monopoly game uses the Tektronix User Definable Keys 1-4 and 8.
