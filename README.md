@@ -1,5 +1,7 @@
 # Tektronix-4051-Emulator
 
+![MONOPOLY](./MONOPOLY.png))
+
 Based on the original ***Tektronix 405x Javascript Emulator*** by Dave Roberts and enhanced by Jon Stanley found here:
 https://github.com/jonbstanley/Tek405xEmulator
 
@@ -53,8 +55,6 @@ This is a full emulation of the Tektronix 4051 computer.
 The emulation consists of a 6800 CPU complete with the 'hardware', 32KB BASIC 
 ROM and eight option ROM images. The Flash Drive provides tape file support -
 limited to a single directory from the FlashDrive.zip. 
-
-![MONOPOLY](./MONOPOLY.png))
 
 ----------------------------------
 
