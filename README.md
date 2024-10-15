@@ -99,4 +99,5 @@ I hope you enjoy it as much as I do.
 # Feature Requests
 
 Please post feature requests or bug reports in this vcfed.org thread: 
+https://forum.vcfed.org/index.php?threads/tektronix-4051-emulator.1250216/post-1410364
 
