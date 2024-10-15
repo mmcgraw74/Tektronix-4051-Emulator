@@ -46,6 +46,38 @@ PC Keyboard key mapping:
 - RUB OUT - Mapped to keyboard "delete" key or press RUB OUT on the emulator window
 - BREAK - not mapped to the keyboard, press this key on the emulator window once or twice to stop a program 
 
+# Flash Drive directories tested to work on the 4051 Emulator
+
+NOTES:
+1. press "storage" to open storage window, press DelALL to clear all the files, then Import to load different Flash Drive directory files.  Then Cancel storage window and Auto Load or manually type the commands in NOTE 2 where X=1
+2. run individual program number.  replace X with the program number
+   FIND@5:X
+   OLD@5:
+   RUN
+  
+
+- **BMP**
+  - my 4050 Bitmap pictures (press home keyboard key to clear the picture after picture is displayed then RUN to rerun the menu program)
+- **Games**
+  - Game files 2-6, 10-26 and 28-30 were written by Tektronix and found on various 4050 tapes
+  - Game 6 is actually "Super Artillery" written by Tektronix
+  - Game 7 was written by the Tektronix author of the Fast Graphics/R12 ROM Pack
+  - Game 9 was a Tektronix Star Trek that I edited to add Function Key mode and graphical phaser and photon torpedo shots
+  - Game 27 Game of LIFE and 31 Master Mind were written by me in the late 1970's from articles in Byte and other magazines of the time
+  - Game 36 Minesweeper is my port from a Tiny BASIC game
+- **GrpR12demo**
+  - R12 Graphics Demo tape files.  R12 MUSIC and SOUND commands do not play on the 4051 Emulator yet
+- **MONOPOLY**
+  - My MONOPOLY game (screenshot in this README) 1 to 4 Players
+- **Pictures**
+  - Pictures 1-27 were on the R12 demo tape or the 4051 Fast Graphics demo tape. I created 28-35
+- **R12IceRace**
+  - My port of Option 30 Ice Race to 4051 R12 game.
+- **SVG2FG**
+  - My SVG to Fast Graphics R12 line drawings.  I recommend selecting multiple pictures (2) as there is no menu yet
+
+
+
 # 4051 Manuals
 
 [4050 Operators Manual](http://www.bitsavers.org/pdf/tektronix/405x/070-1940-01_4050_oper_Mar80.pdf)
