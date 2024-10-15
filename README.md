@@ -22,8 +22,8 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 - **Tektronix-4051-Emulator** requires a computer with at least 1024x800 graphics monitor and Chrome or other HTML5 web browser
 
-- Download and unzip the 4051-Emulator zip file in this directory
-- Download and unzip the FlashDrive zip file in this directory
+- Download and unzip the 4051-Emulator zip file
+- Download and unzip the FlashDrive zip file
 - Run the 4051 Emulator by running the jsTEKTRONIX4051_universal.html file in the unzipped 4051 Emulator folder
 - Your computer default web browser will launch the 4051 Emulator in a new tab
 - Click the "!!mute button", then Click the "start" button at the bottom of the screen to start the 4051 emulator
