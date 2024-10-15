@@ -53,10 +53,11 @@ PC Keyboard key mapping:
 NOTES:
 1. press "storage" to open storage window, press DelALL to clear all the files, then Import to load different Flash Drive directory files.  Then Cancel storage window and Auto Load or manually type the commands in NOTE 2 where X=1
 2. run individual program number.  replace X with the program number
+   ```
    FIND@5:X
    OLD@5:
    RUN
-  
+   ```
 
 - **BMP**
   - my 4050 Bitmap pictures (press home keyboard key to clear the picture after picture is displayed then RUN to rerun the menu program)
