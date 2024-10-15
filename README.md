@@ -28,13 +28,13 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 - Click the "!!mute button", then Click the "start" button at the bottom of the screen to start the 4051 emulator
 - Click the "storage" button at the bottom of the emulator screen
   - select "4050 Flash Drive files" in the pulldown next to the Import button
-- Click the Import button and click OK on the warning popup
+- Click the "Import" button and click OK on the warning popup
   - use the computer file explorer pop-up window to navigate to the desired unzipped Flash Drive directory (ex: Games)
   - Click on the first file and press Shift and End keyboard keys to select all files in the directory and press Enter
-  - Click Close on the Done popup window
-  - Click Cancel on the storage window
-- Click the Auto Load button on the 4051 Emulator
-- This will load the file 1 in this directory which is typically a menu program
+  - Click "Close" on the Done popup window
+  - Click "Cancel" on the storage window
+- Click the "Auto Load" button on the 4051 Emulator
+- This will load and run file 1 in this directory which is typically a menu program
 
 # Features
 
