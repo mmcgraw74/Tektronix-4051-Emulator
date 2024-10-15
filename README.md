@@ -14,6 +14,7 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 - [Table of Contents](#table-of-contents)
 - [Installation and Running the 4051 Emulator](#installation-and-running-the-4051-emulator)
+- [4051 Manuals](#4051-manuals)
 - [Features](#features)
 - [History](#history)
 - [Feature Requests](#feature-requests)
@@ -36,6 +37,21 @@ https://github.com/Twilight-Logic/Tek405xEmulator
   - Click "Cancel" on the storage window
 - Click the "Auto Load" button on the 4051 Emulator
 - This will load and run file 1 in this directory which is typically a menu program
+
+PC Keyboard key mapping:
+
+- USER DEFINABLE - the ten Tektronix user definable keys below the display window are mapped to F1-F10 keys on a PC or MAC, or you can click the keys on the emulator window
+- LINE EDITING - to correct a typing error press keyboard "backspace" and type your correction or use the Line Editor keys in the emulator window
+- HOME/PAGE - When the display shows blinking "F" in the top left corner, you must clear the screen by pressing the HOME/PAGE key on the window or the keyboard "home" key
+- RUB OUT - Mapped to keyboard "delete" key or press RUB OUT on the emulator window
+- BREAK - not mapped to the keyboard, press this key on the emulator window once or twice to stop a program 
+
+# 4051 Manuals
+
+[4050 Operators Manual)(http://www.bitsavers.org/pdf/tektronix/405x/070-1940-01_4050_oper_Mar80.pdf)
+[4050 BASIC Reference](http://www.bitsavers.org/pdf/tektronix/405x/070-2056-01_4050_ref_Jul79.pdf)
+More 4050 manuals including option ROM manuals are here: 
+[Bitsavers Tektronix 405x manuals](http://www.bitsavers.org/pdf/tektronix/405x/)
 
 # Features
 
