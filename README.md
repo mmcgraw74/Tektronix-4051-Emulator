@@ -143,7 +143,7 @@ I decided in January 2018 to try to design a replacement for the 4050 tape using
 
 We got the Flash Drive working with all three models of the Tektronix 4050 - the original 4051 and second generation 4052 and 4054 computers.
 
-I then asked him if he could add the Flash Drive software to the 405x Emulator - and he also added the other featured mentioned above at my request as I began using his experimental version of the 405x Emulator to develop many of my latest 4050 programs including finishing the MONOPOLY game I had started in 1979 on the 4051!
+I then asked him if he could add the Flash Drive software to the 405x Emulator - and he also added the other features mentioned above at my request as I began using his experimental version of the 405x Emulator to develop many of my latest 4050 programs including finishing the MONOPOLY game I had started in 1979 on the 4051!
 
 I believe this version of the emulator truly provides 100% compatibility with the 4051.
 
