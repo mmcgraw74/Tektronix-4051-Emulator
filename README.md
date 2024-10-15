@@ -116,13 +116,13 @@ Twilight-Logic added several features to the original 405x Emulator including:
     - Multiple Flash Drives allow one file open on each drive for multiple reads or writes
     - Huge files (>500KB)
 - **Scalable Vector Graphics**
-  - Scales to the web browser window size (top button on top left corner of emulator window)
-  - Three vector & text pixel modes (third button on top left corner of emulator window)
-    - Quad Pixel 'dots' in vectors and text (Default and best for most 4050 programs)
-    - Quad Pixel 'dots' in text and single pixel dots in vectors (best for viewing bitmap pictures)
-    - Single Pixel 'dots' in vectors and text (matches original 405x Emulator text and vector size)
+  - Auto-Scaling (default ON) - scales to the web browser window size (top button on top left corner of emulator window)
+  - Pixel Size (default coarse) Three vector & text pixel modes (third button on top left corner of emulator window)
+    - Coarse - Quad Pixel 'dots' in vectors and text (Default and best for most 4050 programs)
+    - Mixed -  Quad Pixel 'dots' in text and single pixel dots in vectors (best for viewing bitmap pictures)
+    - Fine -   Single Pixel 'dots' in vectors and text (matches original 405x Emulator text and vector size)
 - **Emulator OverClock**
-  - 1x, 2x, 5x, 10x, 20x, 50x, 100x (middle button on top left corner of emulator window)
+  - Speed Factor (default 1x): 1x, 2x, 5x, 10x, 20x, 50x, 100x (middle button on top left corner of emulator window)
     - 1x provides 4051 performance
     - 10x provides 4052 or 4054 performance
     - Above 10x may not scale further - limited by computer CPU performance (example - Raspberry Pi with Chromium browser)
