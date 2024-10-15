@@ -16,6 +16,7 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 - [Installation and Running the 4051 Emulator](#installation-and-running-the-4051-emulator)
 - [Features](#features)
 - [History](#history)
+- [Feature Requests](#feature-requests)
 
 # Installation and Running the 4051 Emulator
 
@@ -94,3 +95,8 @@ I then asked him if he could add the Flash Drive software to the 405x Emulator -
 I believe this version of the emulator truly provides 100% compatibility with the 4051.
 
 I hope you enjoy it as much as I do.
+
+# Feature Requests
+
+Please post feature requests or bug reports in this vcfed.org thread: 
+
