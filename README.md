@@ -14,7 +14,7 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 - [Table of Contents](#table-of-contents)
 - [Installation and Running the 4051 Emulator](#installation-and-running-the-4051-emulator)
-- [Flash Drive directories tested to work on the 4051 Emulator](flash-drive-directories-tested-to-work-on-the-4051-emulator)
+- [Flash Drive directories tested to work on the 4051 Emulator](#flash-drive-directories-tested-to-work-on-the-4051-emulator)
 - [4051 Manuals](#4051-manuals)
 - [Features](#features)
 - [History](#history)
@@ -46,6 +46,7 @@ PC Keyboard key mapping:
 - HOME/PAGE - When the display shows blinking "F" in the top left corner, you must clear the screen by pressing the HOME/PAGE key on the window or the keyboard "home" key
 - RUB OUT - Mapped to keyboard "delete" key or press RUB OUT on the emulator window
 - BREAK - not mapped to the keyboard, press this key on the emulator window once or twice to stop a program 
+
 
 # Flash Drive directories tested to work on the 4051 Emulator
 
