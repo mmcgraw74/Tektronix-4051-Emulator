@@ -49,7 +49,9 @@ PC Keyboard key mapping:
 # 4051 Manuals
 
 [4050 Operators Manual)(http://www.bitsavers.org/pdf/tektronix/405x/070-1940-01_4050_oper_Mar80.pdf)
+
 [4050 BASIC Reference](http://www.bitsavers.org/pdf/tektronix/405x/070-2056-01_4050_ref_Jul79.pdf)
+
 More 4050 manuals including option ROM manuals are here: 
 [Bitsavers Tektronix 405x manuals](http://www.bitsavers.org/pdf/tektronix/405x/)
 
