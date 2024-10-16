@@ -71,7 +71,7 @@ NOTES:
 - **GrpR12demo**
   - R12 Graphics Demo tape files.  R12 MUSIC and SOUND commands do not play on the 4051 Emulator yet
 - **MONOPOLY**
-  - My MONOPOLY game (screenshot in this README) 1 to 4 Players
+  - My MONOPOLY game (screenshot in this README) [Monopoly Instructions](https://github.com/mmcgraw74/Tektronix-4051-4052-4054-Program-Files/tree/master/Games/Monopoly)
 - **Pictures**
   - Pictures 1-27 were on the R12 demo tape or the 4051 Fast Graphics demo tape. I created 28-35
 - **R12IceRace**
