@@ -139,7 +139,7 @@ My first personal computer experience was using a Tektronix 4051 at work in the 
 
 I acquired a Tektronix 4052 and 4054 computer around 2000 and began creating a tape with 4050 games from listings I had printed at work.  
 
-This is a photo of my 19" storage tube display Tektronix 4054 and 11" storage tube display 4052 taken around 2000 on a custom medical cart designed for the 4052 with the 4631 hard copy unit in a slide out tray at the bottom.
+This is a photo of my Tektronix 4054 with 19" storage tube display and my Tektronix 4052 with 11" storage tube display taken around 2000 with both computers on a custom medical cart designed for the 4052 with the Tektronix 4631 hard copy unit in a slide out tray at the bottom.
 
 ![My 4054 and 4052](./4054%20%26%204052%20sharpened2.png)
 
