@@ -137,9 +137,18 @@ This emulator was initially created by Dave Roberts in 2017 and posted on github
 
 My first personal computer experience was using a Tektronix 4051 at work in the late 1970's.  I really enjoyed learning Tektronix 4050 BASIC and contributed a cubic spline interpolation program to the Tektronix application library.
 
-I acquired a Tektronix 4052 and 4054 computer around 2000 and began creating a tape with 4050 games from listings I had printed at work.  I found a couple of people through the early internet that had 4051 computers and we exchanged the games tapes, but then my interest wained until I found Dave and Jonathan working on a 4051 Emulator on the vcfed dot org "Other" forum.
+I acquired a Tektronix 4052 and 4054 computer around 2000 and began creating a tape with 4050 games from listings I had printed at work.  
 
-The achilles heel of the 4050 computers is the quarter-inch (QIC) data tape cartridge internal drive belt.  These drive belts are now over 40 years old (the 4051 was introduced in 1975 with these cartridges) and most of the cartridges have broken drive belts.  This belt was created by 3M from the same material as the tape and cut out as a ring and formed into a belt.  Since the drive belt contacts the oxide side of the tape - when the belt disentegrates it tends to also pull the oxide off the tape where it was in contact with both tape reels - causing data loss.
+This is a photo of my 19" storage tube display Tektronix 4054 and 11" storage tube display 4052 taken around 2000 on a custom medical cart designed for the 4052 with the 4631 hard copy unit in a slide out tray at the bottom.
+
+![My 4054 and 4052](./4054%20%26%204052%20sharpened2.png)
+
+I found a couple of people through the early internet that had 4051 computers and we exchanged the games tapes, but then my interest wained until I found Dave and Jonathan working on a 4051 Emulator on the vcfed dot org "Other" forum.
+
+I began recovering dozens of old 4050 data tapes and also 4050 8-inch floppy disks and posting the recovered files on my github repository:
+[Tektronix-4051-4052-4054-Program-Files](https://github.com/mmcgraw74/Tektronix-4051-4052-4054-Program-Files)
+
+The achilles heel of the Tektronix 4050 computers is the quarter-inch (QIC) data tape cartridge internal drive belt.  These drive belts are now over 40 years old (the 4051 was introduced in 1975 with these cartridges) and most of the cartridges have broken drive belts.  This belt was created by 3M from the same material as the tape and cut out as a ring and formed into a belt.  Since the drive belt contacts the oxide side of the tape - when the belt disentegrates it tends to also pull the oxide off the tape where it was in contact with both tape reels - causing data loss.
 
 I decided in January 2018 to try to design a replacement for the 4050 tape using a microSD card for storage and an Arduino as the GPIB tape device.  I found an AR488 GPIB Arduino project on eevblog and contacted the software developer (Twilight Logic) about helping me design a GPIB Flash Drive emulating the Tektronix 4924 GPIB tape drive - which was fully supported in Tektronix 4050 BASIC.
 
