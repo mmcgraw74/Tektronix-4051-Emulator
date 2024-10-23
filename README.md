@@ -141,7 +141,7 @@ I acquired a Tektronix 4052 and 4054 computer around 2000 and began creating a t
 
 This is a photo of my Tektronix 4054 with 19" storage tube display and my Tektronix 4052 with 11" storage tube display taken around 2000 with both computers on a custom medical cart designed for the 4052 with the Tektronix 4631 hard copy unit in a slide out tray at the bottom.
 
-![My 4054 and 4052](./4054%20%26%204052%20sharpened2.png)
+![My 4054 and 4052](./4054%20%and%204052%20enh.jpg)
 
 Both computers in the photo are running the same BASIC program for the Tektronix 4051 that I created in 1979 from the BASIC program in May 1978 BYTE magazine article "Hidden Line Subroutine for Three Dimensional Plotting".
 
