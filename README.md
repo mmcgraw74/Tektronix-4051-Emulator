@@ -51,8 +51,10 @@ PC Keyboard key mapping:
 # Flash Drive directories tested to work on the 4051 Emulator
 
 NOTES:
-1. press "storage" to open storage window, press DelALL to clear all the files, then Import to load different Flash Drive directory files.  Then Cancel storage window and Auto Load or manually type the commands in NOTE 2 where X=1
-2. run individual program number.  replace X with the program number
+1. To run a program in a different Flash Drive directory:
+   - press "storage" to open storage window, press "DelALL" to clear all the files, then "Import" to load different Flash Drive directory files.
+   - press "Cancel" to close storage window and select "Auto Load" in the emulator window or manually type the commands in NOTE 2 where X=1
+3. To run an individual program number loaded into storage, type the following commands into the emulator window replacing X with the program number:
    ```
    FIND@5:X
    OLD@5:
