@@ -13,12 +13,24 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Release NOTES](#release-notes)
 - [Installation and Running the 4051 Emulator](#installation-and-running-the-4051-emulator)
 - [Flash Drive directories tested to work on the 4051 Emulator](#flash-drive-directories-tested-to-work-on-the-4051-emulator)
 - [4051 Manuals](#4051-manuals)
 - [Features](#features)
 - [History](#history)
 - [Feature Requests](#feature-requests)
+
+# Release NOTES
+
+**January 6, 2025**
+- updated Flash Drive zip to January 6, 2025
+  - updated MAIN MENU to add SimpleDemo and Michelangelo
+  - added SimpleDemo for VintageTEK and other exhibitors to easily demo Mickey Mouse, Death Star and INSTANT ART
+  - added Michelangelo to view vector image ported from Commodore Plus/4 BASIC
+  - added 6800 Disassembler program and example source from Application Library tape
+  - added MENU to SVG2FG to view and select from list of SVG files
+  - updated EM Benchmark to compare with my 4051 benchmark results in 1979
 
 # Installation and Running the 4051 Emulator
 
