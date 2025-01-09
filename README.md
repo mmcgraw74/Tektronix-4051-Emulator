@@ -36,15 +36,15 @@ https://github.com/Twilight-Logic/Tek405xEmulator
 
 - **Tektronix-4051-Emulator** requires a computer with at least 1024x800 graphics monitor and Chrome or other HTML5 web browser
 
-- Download and unzip the 4051-Emulator zip file
-- Download and unzip the FlashDrive zip file
-- Run the 4051 Emulator by running the jsTEKTRONIX4051_universal.html file in the unzipped 4051 Emulator folder
-- Your computer default web browser will launch the 4051 Emulator in a new tab
-- Click the "!!mute button", then Click the "start" button at the bottom of the screen to start the 4051 emulator
+- Click the GREEN "<> CODE" button near the top of this webpage and select Download ZIP
+- Unzip the downloaded Tektronix-4051-Emulator-main.zip file
+- Navigate into the 4051-Emulator-20240427 folder and double-click the Tektronix4051.html file to run the Emulator 
+- Your computer default web browser will launch the 4051 Emulator in a new tab (Chrome browser or Firefox work fine)
+- Click the "mute button", then Click the "start" button at the bottom of the screen to start the 4051 emulator
 - Click the "storage" button at the bottom of the emulator screen
   - select "4050 Flash Drive files" in the pulldown next to the Import button
 - Click the "Import" button and click OK on the warning popup
-  - use the computer file explorer pop-up window to navigate to the desired unzipped Flash Drive directory (ex: Games)
+  - use the computer file explorer pop-up window to navigate to the **desired unzipped Flash Drive directory** (ex: Games, or SimpleDemo)
   - Click on the first file and press Shift and End keyboard keys to select all files in the directory and press Enter
   - Click "Close" on the Done popup window
   - Click "Cancel" on the storage window
