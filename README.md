@@ -131,7 +131,7 @@ Twilight-Logic added several features to the original 405x Emulator including:
     - Huge files (>500KB)
 - **Scalable Vector Graphics**
   - Auto-Scaling (default ON) - scales to the web browser window size (top button on top left corner of emulator window)
-  - Pixel Size (default coarse) Three vector & text pixel modes (third button on top left corner of emulator window)
+  - Pixel Size (default coarse) Three vector & text pixel modes (bottom button on top left corner of emulator window)
     - Coarse - Quad Pixel 'dots' in vectors and text (Default and best for most 4050 programs)
     - Mixed -  Quad Pixel 'dots' in text and single pixel dots in vectors (best for viewing bitmap pictures)
     - Fine -   Single Pixel 'dots' in vectors and text (matches original 405x Emulator text and vector size)
