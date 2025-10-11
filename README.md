@@ -157,7 +157,7 @@ This is a photo of my Tektronix 4054 with 19" storage tube display and my Tektro
 
 Both computers in the photo are running the same BASIC program for the Tektronix 4051 that I created in 1979 from the BASIC program in May 1978 BYTE magazine article "Hidden Line Subroutine for Three Dimensional Plotting".
 
-I found a couple of people through the early internet that had 4051 computers and we exchanged the games tapes, but then my interest wained until I found Dave and Jonathan working on a 4051 Emulator on the vcfed dot org "Other" forum.
+I found a couple of people through the early internet that had 4051 computers and we exchanged the games tapes, but then my interest wained until I found Dave and Jonathan working on a 4051 Emulator on the vcfed dot org "Other" forum in 2018.
 
 I began recovering dozens of old 4050 data tapes and also 4050 8-inch floppy disks and posting the recovered files on my github repository:
 [Tektronix-4051-4052-4054-Program-Files](https://github.com/mmcgraw74/Tektronix-4051-4052-4054-Program-Files)
